@@ -28,8 +28,6 @@ I'm a Brazilian software engineer who loves designing and building clean, intuit
 
 ### OSS Contributions
 I was one of the most active contributors to coder/coder (10k+ stars), with 1,000+ PRs merged.
-- [Add workspace timings](https://github.com/coder/coder/pull/15068)
-- [Add notification UI components](https://github.com/coder/coder/pull/16818)
 - [All my contributions](https://github.com/coder/coder/pulls?q=is%3Apr+assignee%3ABrunoQuaresma) to coder/coder
 
 ### Certificates
